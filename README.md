@@ -19,3 +19,7 @@ The current vertical slice includes responsive marketplace discovery, category f
 
 Build the client with `npm run build`. Deploy the generated `client/dist` directory to a static host such as Vercel or Netlify, and deploy `server` to a Node host such as Render or Railway. Set `CLIENT_URL`, `MONGO_URI`, `JWT_SECRET`, and `PORT` in the server environment. MongoDB Atlas is recommended for production data.
 >>>>>>> 2a83ab1 (Add complete ShopSphere marketplace)
+
+
+render:https://shop-sphere-4.onrender.com
+versel:https://shop-sphere-mocha-rho.vercel.app/
